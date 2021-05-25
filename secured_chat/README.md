@@ -3,7 +3,7 @@
 Only for 2 connections.
 
 ## Server
-As you can see every message is encoded
+#### As you can see every message is encoded
 ![Image of Server](https://github.com/titovilya/python_server_practice/blob/main/secured_chat/src/server.jpg)
 
 ## First client
